@@ -3,7 +3,6 @@
  * Strie node is used to build a strie. Each node represents a character.
  * and has up to 26 child nodes.
  *
- * @author Li 7wak
  */
 public class StrieNode {
 
